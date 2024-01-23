@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm BlockCreator001<br>🔭 I’m currently working on Minecraft Mod Developing <br>👨‍💻 All of my projects are available at https://www.curseforge.com/members/block_legend001/projects<br>🌱 I’m currently learning Java, JavaScript<br>📫 How to reach me Discord: @Block_Legend001#0026
+👋 Hi, I'm BlockCreator001<br>🔭 I’m currently working on Minecraft Mod Developing <br>👨‍💻 All of my projects are available on <a href="https://www.curseforge.com/members/block_legend001/projects">CurseForge</a> and <a href="https://modrinth.com/user/BlockLegend001">Modrinth</a> <br>📫 How to reach me Discord: @Block_Legend001
 
 
 # 💻 Tech Stack:
