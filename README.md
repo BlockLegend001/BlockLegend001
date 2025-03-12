@@ -1,21 +1,33 @@
-# 💫 About Me:
-👋 Hi, I'm BlockLegend001<br>🔭 I’m currently working on Minecraft Mod Developing<br>👨‍💻 All of my projects are available on <a href="https://www.curseforge.com/members/block_legend001/projects">CurseForge</a> and <a href="https://modrinth.com/user/BlockLegend001">Modrinth</a><br>📫 How to reach me Discord: @Block_Legend001
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Block_Legend001;Minecraft+Mod+Developer" alt="Minecraft Mod Developer"/>
+</a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jVmUTGFMX5) 
+<div>
+    <img src="./assets/about_block.gif" alt="About Me Terminal GIF"/>
+</div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![VSC](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![ID](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BlockLegend001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BlockLegend001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockLegend001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### My mission
+I am a passionate Minecraft mod developer, always looking for creative and innovative solutions. With a strong technical background, I dedicate myself to turning ideas into engaging features, enhancing the gaming experience for the community. My mission is to create connections, foster collaboration, and develop content that makes the world of Minecraft even more dynamic and exciting.
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=github,git,java,nodejs,c,cpp,linux,idea,arduino)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BlockLegend001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Publications
+<div>
+  <a href="https://www.curseforge.com/members/block_legend001/projects">
+    <img src="https://img.shields.io/badge/Curseforge-12100E?style=for-the-badge&logo=curseforge&logoColor=white" target="_blank" alt="Curseforge">
+  </a>
+  <a href="https://modrinth.com/user/BlockLegend001">
+    <img src="https://img.shields.io/badge/Modrinth-0A0A0A?style=for-the-badge&logo=modrinth&logoColor=white" target="_blank" alt="Modrinth">
+  </a>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=BlockLegend001&icon=0&color=0)](https://visitcount.itsvg.in)
+### Connect with me!
+<div>
+    <a href="https://discord.gg/jVmUTGFMX5">
+        <img src="https://camo.githubusercontent.com/39a6b02a59b2e1ae634201e9a6aecdd7e51d7f419bea9b5cd4922028b22644ef/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="Discord" width="35" height="35"/>
+    </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
